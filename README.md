@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sama20030220
+- 👋 Hi, I’m @Sama
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 
